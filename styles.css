@@ -1,0 +1,14 @@
+
+body{
+font-family: Georgia , sans-serif;
+}
+
+#yellowbox{
+width:200px;
+height:200px;
+position:relative;
+}
+
+#bold{
+font-weight:bold;
+}
